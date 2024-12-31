@@ -22,9 +22,8 @@ This project leverages a range of SQL techniques to provide deep insights into G
 
   
 ## 🚀 Key Deliverables  
-1. **Trip Volume Analysis**: Identified trends in trip volumes and distribution across various cities and times (weekdays vs weekends).  
-2. **Passenger Satisfaction Metrics**: Evaluated average ratings from passengers and drivers to understand service quality.  
-3. **Repeat Passenger Behavior**: Analyzed the number of repeat trips and patterns, providing insight into customer loyalty and retention.
+1. **Trip Volume Analysis**: Identified trends in trip volumes and distribution across various cities  
+2. **Repeat Passenger Behavior**: Analyzed the number of repeat trips and patterns, providing insight into customer loyalty and retention.
 
 
 ## Key Insights
